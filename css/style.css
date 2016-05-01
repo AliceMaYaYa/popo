@@ -1,0 +1,102 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.login-div{
+    width: 280px;
+    height: 650px;
+    margin: 0 auto;
+}
+.login-top{
+    width: 280px;
+    height: 40px;
+    background-color: #c5d7ed;
+}
+.title-logo{
+    float: left;
+    width: 82px;
+    height: 25px;
+    margin: 5px;
+    background-image: url("../image/title-logo.png");
+}
+.title-ope{
+    float:right;
+    width:115px;
+    height: 25px;
+    margin: 5px;
+}
+.ope{
+    width:20px;
+    height: 25px;
+    display: inline-block;
+    background: url("../image/oper.png") no-repeat no-repeat;
+}
+.title-opt{
+    background-position: -7px,0;
+}
+.title-min{
+    background-position: -33px,0;
+}
+.title-max{
+    background-position: -61px,0;
+}
+.title-close{
+    background-position: -88px,0;
+}
+.login-content{
+    width: 280px;
+    height: 550px;
+    background-color: #ecf3fa;
+}
+.content-image{
+    width:280px;
+    height: 163px;
+    background-image: url("../image/logo.png");
+}
+.content-inform{
+    width:160px;
+    margin: 0 auto;
+}
+.item{
+    margin: 5px;
+    font-size: 14px;
+}
+.password-forget{
+    color: #037acd;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.logo-content{
+    width: 50px;
+    height: 20px;
+    margin: 0 auto;
+    padding: 40px;
+}
+.logo-tips{
+    color:red ;
+    font-size: 12px;
+    text-align: center;
+    height: 20px;
+    line-height: 20px;
+}
+.logo-btn{
+    background-color: #d3e1f1;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.login-bottom{
+    margin:60px 20px 20px 20px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.bottom-res{
+    color: #037acd;
+}
+.bottom-logo{
+    color: #037acd;
+}
+
+
+
+
+
